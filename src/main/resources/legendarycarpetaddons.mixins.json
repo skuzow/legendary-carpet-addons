@@ -4,8 +4,7 @@
   "package": "net.legendnightt.legendarycarpetaddons.mixins",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
-    "CrashReportMixin",
-    "MiningToolItemMixin"
+    "CrashReportMixin"
   ],
   "client": [
   ],
