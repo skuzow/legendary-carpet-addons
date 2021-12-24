@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.legendnightt.legendarycarpetaddons.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "CrashReportMixin",
+    "MiningToolItemMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
